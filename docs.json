@@ -4,8 +4,8 @@
   "name": "SwiftUI Template",
   "colors": {
     "primary": "#3b86f7",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#3b86f7",
+    "dark": "#3f8ff7"
   },
   "favicon": "/favicon.svg",
   "navigation": {
