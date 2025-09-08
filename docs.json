@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "maple",
   "name": "SwiftUI Template",
   "colors": {
     "primary": "#16A34A",
